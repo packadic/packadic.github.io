@@ -323,16 +323,16 @@ Scroller Extension
           line-height: normal; }
 
 .panel-default, .partition-default {
-  background: url('../../../dev/assets/images/textures/back-pattern.png?1393911985') repeat #FFFFFF; }
+  background: url('../images/textures/back-pattern.png?1393911985') repeat #FFFFFF; }
   .panel-default .panel-heading, .partition-default .panel-heading {
-    background: url('../../../dev/assets/images/textures/padded-light.png?1393912107') repeat #C0C0C0;
+    background: url('../images/textures/padded-light.png?1393912107') repeat #C0C0C0;
     border: none; }
   .panel-default .panel-tools .btn, .panel-default .panel-tools > a, .partition-default .panel-tools .btn, .partition-default .panel-tools > a {
     color: rgba(255, 255, 255, 0.8) !important; }
     .panel-default .panel-tools .btn:hover, .panel-default .panel-tools > a:hover, .partition-default .panel-tools .btn:hover, .partition-default .panel-tools > a:hover {
       color: #FFF !important; }
   .panel-default .panel-footer, .partition-default .panel-footer {
-    background: url('../../../dev/assets/images/textures/concrete-wall-3.png?1393912015') repeat;
+    background: url('../images/textures/concrete-wall-3.png?1393912015') repeat;
     border-top: 1px dashed #CACACA; }
 
 .panel-transparent, .partition-transparent {
@@ -369,7 +369,7 @@ Scroller Extension
   border-radius: 0;
   border: none; }
   .panel-note .panel-heading {
-    background: url('../../../dev/assets/images/panels/note_dot.png?1426258619') repeat-x;
+    background: url('../images/panels/note_dot.png?1426258619') repeat-x;
     border-bottom: 0 none;
     padding-top: 30px;
     padding-bottom: 10px;
@@ -379,7 +379,7 @@ Scroller Extension
     .panel-note .panel-heading h3 {
       margin: 0; }
   .panel-note .panel-body {
-    background: url('../../../dev/assets/images/panels/line_detail.png?1426258619') repeat;
+    background: url('../images/panels/line_detail.png?1426258619') repeat;
     padding: 0;
     margin: 0 15px;
     line-height: 18px; }
